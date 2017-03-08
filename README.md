@@ -3,4 +3,6 @@ One more repository, please.
 
 Hi everyone!
 
-  I'm here to learn, you are welcome to help in my new adventure! Thanks and cya :) 
+  I'm new to the code world and want to learn all i can.
+  You are welcome to help me in this adventure!
+  Thanks and cya :) 
